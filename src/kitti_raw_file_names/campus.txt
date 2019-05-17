@@ -1,0 +1,63 @@
+Data Category: Campus
+
+Before browsing, please wait some moments until this page is fully loaded.
+
+2011_09_28_drive_0016 (0.7 GB)
+Length: 192 frames (00:19 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_28_drive_0021 (0.8 GB)
+Length: 215 frames (00:21 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_28_drive_0034 (0.2 GB)
+Length: 55 frames (00:05 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_28_drive_0035 (0.2 GB)
+Length: 41 frames (00:04 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_28_drive_0037 (0.4 GB)
+Length: 94 frames (00:09 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_28_drive_0038 (0.4 GB)
+Length: 116 frames (00:11 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_28_drive_0039 (1.4 GB)
+Length: 358 frames (00:35 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_28_drive_0043 (0.6 GB)
+Length: 151 frames (00:15 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_28_drive_0045 (0.2 GB)
+Length: 49 frames (00:04 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_28_drive_0047 (0.1 GB)
+Length: 37 frames (00:03 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]

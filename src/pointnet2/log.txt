@@ -1,0 +1,7 @@
+pid: 7113
+Traceback (most recent call last):
+  File "train.py", line 284, in <module>
+    train()
+  File "train.py", line 122, in train
+    MODEL.get_loss(pred, labels_pl, end_points)
+TypeError: get_loss() takes exactly 2 arguments (3 given)

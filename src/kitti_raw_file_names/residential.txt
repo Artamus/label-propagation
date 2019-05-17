@@ -1,0 +1,129 @@
+Data Category: Residential
+
+Before browsing, please wait some moments until this page is fully loaded.
+
+2011_09_26_drive_0019 (1.9 GB)
+Length: 487 frames (00:48 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 13 Cars, 2 Vans, 0 Trucks, 3 Pedestrians, 0 Sitters, 7 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0020 (0.4 GB)
+Length: 92 frames (00:09 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 5 Cars, 1 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 2 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0022 (3.1 GB)
+Length: 806 frames (01:20 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 53 Cars, 4 Vans, 1 Trucks, 2 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 3 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0023 (1.9 GB)
+Length: 480 frames (00:48 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 150 Cars, 6 Vans, 1 Trucks, 1 Pedestrians, 0 Sitters, 1 Cyclists, 0 Trams, 8 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0035 (0.5 GB)
+Length: 137 frames (00:13 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 23 Cars, 6 Vans, 2 Trucks, 2 Pedestrians, 0 Sitters, 1 Cyclists, 0 Trams, 3 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0036 (3.1 GB)
+Length: 809 frames (01:20 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 80 Cars, 7 Vans, 1 Trucks, 1 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0039 (1.5 GB)
+Length: 401 frames (00:40 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 35 Cars, 4 Vans, 1 Trucks, 2 Pedestrians, 0 Sitters, 1 Cyclists, 0 Trams, 1 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0046 (0.5 GB)
+Length: 131 frames (00:13 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 8 Cars, 1 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0061 (2.7 GB)
+Length: 709 frames (01:10 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 39 Cars, 0 Vans, 1 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 3 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0064 (2.2 GB)
+Length: 576 frames (00:57 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 38 Cars, 8 Vans, 1 Trucks, 0 Pedestrians, 0 Sitters, 1 Cyclists, 0 Trams, 1 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0079 (0.4 GB)
+Length: 107 frames (00:10 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 2 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0086 (2.7 GB)
+Length: 711 frames (01:11 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 3 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 1 Cyclists, 0 Trams, 1 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_26_drive_0087 (2.8 GB)
+Length: 735 frames (01:13 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 6 Cars, 1 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 1 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] [tracklets]
+
+2011_09_30_drive_0018 (10.7 GB)
+Length: 2768 frames (04:36 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_30_drive_0020 (4.3 GB)
+Length: 1111 frames (01:51 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_30_drive_0027 (4.3 GB)
+Length: 1112 frames (01:51 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_30_drive_0028 (20.0 GB)
+Length: 5183 frames (08:38 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_30_drive_0033 (6.2 GB)
+Length: 1600 frames (02:40 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_09_30_drive_0034 (4.8 GB)
+Length: 1230 frames (02:03 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_10_03_drive_0027 (17.6 GB)
+Length: 4550 frames (07:35 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration]
+
+2011_10_03_drive_0034 (18.0 GB)
+Length: 4669 frames (07:46 minutes)
+Image resolution: 1392 x 512 pixels
+Labels: 0 Cars, 0 Vans, 0 Trucks, 0 Pedestrians, 0 Sitters, 0 Cyclists, 0 Trams, 0 Misc
+Downloads: [unsynced+unrectified data] [synced+rectified data] [calibration] 

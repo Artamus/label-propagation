@@ -1,0 +1,2 @@
+Namespace(batch_size=32, decay_rate=0.7, decay_step=200000, gpu=0, learning_rate=0.001, log_dir='log', max_epoch=201, model='pointnet2_part_seg', momentum=0.9, num_point=2048, optimizer='adam')
+pid: 12495
