@@ -23,6 +23,8 @@ KITTI_CLASSES_VALUES = KITTI_CLASSES_MAP.values()
 CITYSCAPES_CLASSES_NAMES = ['unlabelled'] + get_train_labels()
 KITTI_CLASSES_NAMES = ['unlabelled'] + get_train_labels()
 
+# TODO: Transformations have moved into their own file, use those
+
 
 def inverse_rigid_trans(Tr):
     ''' Inverse a rigid body transform matrix (3x4 as [R|t])
@@ -194,7 +196,7 @@ def plot_confusion_matrix(ground_truth, prediction, classes, is_3d, cmap=plt.cm.
     if is_3d:
         cm = cm[existing_gt_classes_ind]
         cm = cm[:, existing_pred_classes_ind]
-    
+
     fig, ax = plt.subplots()
     fig.set_size_inches(10, 10)
     im = ax.imshow(cm, interpolation='nearest', cmap=cmap)
